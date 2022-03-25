@@ -1,0 +1,1 @@
+# example-mssql-encryption-handling
